@@ -1,0 +1,3 @@
+data/quiz.db
+.venv/
+.streamlit/secrets.toml
